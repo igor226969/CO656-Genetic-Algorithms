@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Trader
+comment1.params=filename
+comment1.target=void\ run(java.lang.String)
+comment2.params=filename
+comment2.target=void\ load(java.lang.String)
+comment3.params=
+comment3.target=void\ initialise()
+comment4.params=
+comment4.target=void\ evaluate()
+comment5.params=
+comment5.target=int\ select()
+comment6.params=first\ second
+comment6.target=double[][]\ crossover(int,\ int)
+comment7.params=parent
+comment7.target=double[]\ mutation(int)
+numComments=8
